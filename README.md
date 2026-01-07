@@ -14,24 +14,34 @@ project-name/
 │── README.md
 # Project Title: AWS 3-Tier Architecture Deployment
 
-## 🚀 Overview
+##  Overview
 This project deploys a highly available 3-tier architecture on AWS using Terraform.  
 It includes VPC, subnets, EC2, ALB, RDS, and security groups.
 
-## 🧱 Architecture
+##  Architecture
 - VPC with public/private subnets
 - Application Load Balancer
 - Auto Scaling Group
 - RDS MySQL database
 - NAT Gateway
 - CloudWatch monitoring
+ 
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - AWS
 - Terraform
 - Linux
 - GitHub Actions (optional)
 - Kubernetes (if used)
 
-## 📦 How to Deploy
+
+## 📊 Architecture Diagram
+<img width="1024" height="1536" alt="Simple cloud archite" src="https://github.com/user-attachments/assets/ba0b5687-5621-454a-b91f-90cb58208b98" />
+
+
+## 📚 What I Learned
+- Infrastructure as Code
+- Cloud networking
+- Scaling and load balancing
+- Secure architecture design
 
